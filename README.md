@@ -35,10 +35,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://luppufy.onrender.com/v2/577589971658211329?border=FF0000">
-</div>
-
+<h2 align="center">
+ <a href="https://discord.com/users/577589971658211329"><img  width="400px" src="https://luppufy.onrender.com/v2/577589971658211329?border=ff0000"></a>
+<a href="https://discord.com/users/577589971658211329"><img  width="400px" src="https://luppufy.onrender.com/v2/577589971658211329?border=00008b"></a>
+ </h2>
+ 
 ###
 
 <div align="center">
