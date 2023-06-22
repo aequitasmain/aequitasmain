@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img height="190" src="https://lanyard-profile-readme.vercel.app/api/577589971658211329"  />
+  <img src="https://luppufy.onrender.com/v2/577589971658211329?border=FF0000">
 </div>
 
 ###
