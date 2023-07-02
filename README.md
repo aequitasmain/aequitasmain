@@ -30,18 +30,6 @@
   </a>
 </div>
 
-###
-
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
 
 <h3 align="center">📀 | Kullandığım Diller | 📀</h3>
 
