@@ -30,6 +30,10 @@
   </a>
 </div>
 
+<h1 align="center">
+ <a href="https://discord.com/users/577589971658211329"><img  width="400px" src="https://luppufy.onrender.com/member/577589971658211329?border=ff0000"></a>
+ </h1>
+
 
 <h3 align="center">📀 | Kullandığım Diller | 📀</h3>
 
